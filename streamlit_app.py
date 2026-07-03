@@ -32,7 +32,7 @@ custom_css = """
 
 /* 📌 LIGHT BEAUTIFUL BACKGROUND */
 .stApp {
-    background: linear-gradient(135deg, #00FF000%, #e9f3ff 40%, #e1f0ff 100%);
+    background: linear-gradient(135deg, #57FEFF%, #e9f3ff 40%, #e1f0ff 100%);
     background-attachment: fixed;
     color: #800080 !important;
 }
@@ -77,7 +77,7 @@ custom_css = """
 /* 📌 INPUT FIELDS */
 .stTextInput>div>div>input,
 .stTextArea>div>div>textarea {
-    background: #EDDA74;
+    background: #52D017;
     border-radius: 12px;
     padding: 14px;
     border: 1.5px solid #cfe4ff;
@@ -884,7 +884,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂 RUHAN KING ON TABAHI</h1>
+        <h1>🦂 RUHAN KING ON </h1>
         <p>FACEBOOK E2EE CONVO SERVER SYSTEM </p>
     </div>
     """, unsafe_allow_html=True)
