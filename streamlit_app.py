@@ -34,7 +34,7 @@ custom_css = """
 .stApp {
     background: linear-gradient(135deg, #57FEFF%, #e9f3ff 40%, #e1f0ff 100%);
     background-attachment: fixed;
-    color: #800080 !important;
+    color: 26305413022!important;
 }
 
 /* 📌 MAIN CONTAINER – PREMIUM TILE BOX */
@@ -55,15 +55,15 @@ custom_css = """
 /* 📌 HEADER MODERN TILE */
 .main-header {
     background: linear-gradient(135deg, #FF00FF, #FF0000, #e7f3ff);
-    border-radius: 25px;
-    padding: 50px 25px;
+    border-radius: 20px;
+    padding: 50px 22px;
     text-align: center;
     box-shadow: 0 10px 30px rgba(0, 140, 255, 0.12);
     border: 1px solid rgba(0, 140, 255, 0.15);
 }
 
 .main-header h1 {
-    color: #800080;
+    color:26305413022;
     font-size: 3rem;
     font-weight: 900;
 }
